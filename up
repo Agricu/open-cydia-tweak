@@ -1,0 +1,6 @@
+git init
+git add .
+git add README.md
+git commit -m "first up"
+git remote add origin https://github.com/Agricu/open-cydia-tweak.git
+git push -u origin master

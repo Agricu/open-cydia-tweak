@@ -1,0 +1,10 @@
+Name: Cydia™助手
+Package: cn.agricu.cydia
+Depends: firmware (>= 7.0)
+Maintainer: Agricu
+Author: Agricu
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: 开启Cydia后台刷新及插件安装完成后关闭按钮
+Version: 1.0
+Installed-Size: 292

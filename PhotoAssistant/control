@@ -1,0 +1,10 @@
+Package: cn.agricu.mobileslideshow
+Name: 照片™助手/Photo Assistant
+Depends: mobilesubstrate
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Delete photos without confirmation and unlimited zooming in, Show resolution and file size at the top of the photo，Support for arm64e devices。
+Depiction: https://agricu.gitee.io/packageInfo/mobileslideshow.html
+Maintainer: Agricu
+Author: Agricu
+Section: Tweaks
