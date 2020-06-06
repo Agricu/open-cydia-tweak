@@ -1,4 +1,4 @@
-#include "XXXRootListController.h"
+#include "cydiaRootListController.h"
 #include <spawn.h>
 
 extern char **environ;
@@ -18,7 +18,7 @@ void run_cmd(char *cmd)
 	}
 }
 
-@implementation XXXRootListController
+@implementation cydiaRootListController
 
 - (NSArray *)specifiers {
 	if (!_specifiers) {
@@ -42,7 +42,7 @@ void run_cmd(char *cmd)
 	[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"cydia://url/https://cydia.saurik.com/api/share#?source=http://repo.agricu.cn"]];
 }
 - (void)github {
-	[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://github.com/Agricu/cydiaAssistant"]];
+	[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://github.com/Agricu/open-cydia-tweak/"]];
 }
 
 @end

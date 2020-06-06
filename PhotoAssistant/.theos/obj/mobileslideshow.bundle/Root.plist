@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Enable this feature to disable delete confirmation</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+		<string>cn.agricu.mobileslideshow</string>
+			<key>key</key>
+          <string>deleteEnable</string>
+			<key>label</key>
+			<string>Delete Enable</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Enable this feature to show file size at the top of the photo</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+		<string>cn.agricu.mobileslideshow</string>
+			<key>key</key>
+			<string>infoEnable</string>
+			<key>label</key>
+			<string>PhotoInfo Enable</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Sign out of the device for the settings to take effect</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Reload SpringBoard</string>
+			<key>action</key>
+			<string>killSpringBoard</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Developer</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>My Website</string>
+			<key>action</key>
+			<string>gotoMyPage</string>
+			<key>hasIcon</key>
+			<true/>
+			<key>icon</key>
+			<string>website.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Add My Repo on Cydia 📦</string>
+			<key>action</key>
+			<string>donate</string>
+			<key>hasIcon</key>
+			<true/>
+			<key>icon</key>
+			<string>Icon-Small@2x.png</string>
+		</dict>
+       <dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>View source code</string>
+			<key>action</key>
+			<string>github</string>
+			<key>hasIcon</key>
+			<true/>
+			<key>icon</key>
+			<string>github@2x.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>仅用于学习交流，请于下载后24小时内删除！
+Copyright (c) 2019-2020 by Agricu. All rights reserved.
+</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Photo Assistant</string>
+</dict>
+</plist>

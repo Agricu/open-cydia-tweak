@@ -2,7 +2,7 @@ include $(THEOS)/makefiles/common.mk
 
 BUNDLE_NAME = cydia
 
-cydia_FILES = XXXRootListController.m
+cydia_FILES = cydiaRootListController.m
 cydia_INSTALL_PATH = /Library/PreferenceBundles
 cydia_FRAMEWORKS = UIKit
 cydia_PRIVATE_FRAMEWORKS = Preferences

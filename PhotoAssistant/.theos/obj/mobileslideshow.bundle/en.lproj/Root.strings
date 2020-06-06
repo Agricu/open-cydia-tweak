@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Add My Repo on Cydia 📦</key>
+	<string>Add My Repo on Cydia 📦</string>
+	<key>Delete Enable</key>
+	<string>Delete Enable</string>
+	<key>Enable this feature to disable delete confirmation</key>
+	<string>Enable this feature to disable delete confirmation</string>
+	<key>Enable this feature to show file size at the top of the photo</key>
+	<string>Enable this feature to show file size at the top of the photo</string>
+	<key>My Website</key>
+	<string>My Website</string>
+	<key>Photo Assistant</key>
+	<string>Photo Assistant</string>
+	<key>PhotoInfo Enable</key>
+	<string>PhotoInfo Enable</string>
+	<key>Reload SpringBoard</key>
+	<string>Reload SpringBoard</string>
+	<key>Sign out of the device for the settings to take effect</key>
+	<string>Sign out of the device for the settings to take effect</string>
+	<key>View source code</key>
+	<string>View source code</string>
+</dict>
+</plist>

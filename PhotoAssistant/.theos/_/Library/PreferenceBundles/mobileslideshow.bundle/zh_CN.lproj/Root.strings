@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Add My Repo on Cydia 📦</key>
+	<string>在Cydia中添加我的源📦</string>
+	<key>Delete Enable</key>
+	<string>删除确认功能禁用</string>
+	<key>Enable this feature to disable delete confirmation</key>
+	<string>启用此功能禁用删除确认。</string>
+	<key>Enable this feature to show file size at the top of the photo</key>
+	<string>启用此功能可以在照片顶部显示文件大小。</string>
+	<key>My Website</key>
+	<string>我的网站</string>
+	<key>Photo Assistant</key>
+	<string>照片™助手</string>
+	<key>PhotoInfo Enable</key>
+	<string>照片信息功能启用</string>
+	<key>Reload SpringBoard</key>
+	<string>重新加载SpringBoard</string>
+	<key>Sign out of the device for the settings to take effect</key>
+	<string>重新加载SpringBoars使设置生效。</string>
+	<key>View source code</key>
+	<string>查看源代码</string>
+</dict>
+</plist>
