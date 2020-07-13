@@ -1,6 +1,6 @@
 git init
 git add .
 git add README.md
-git commit -m "first up"
+git commit -m "添加番茄影视"
 git remote add origin https://github.com/Agricu/open-cydia-tweak.git
 git push -u origin master

@@ -1,0 +1,9 @@
+Package: cn.agricu.fqys
+Name: FQ二维码(番茄影视)伪装上架版去广告
+Depends: firmware (>= 9.0), mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: FQ二维码(番茄影视)伪装上架版去广告
+Maintainer: Agricu
+Author: Agricu
+Section: Tweaks
