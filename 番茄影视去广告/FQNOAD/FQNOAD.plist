@@ -1,1 +1,8 @@
-{ Filter = { Bundles = ( "com.QrCode.GreateCode" ); }; }
+{
+    Filter =     {
+        Bundles =         (
+            "com.QrCode.GreateCode",
+            "com.fanqie.exifpro"
+        );
+    };
+}
