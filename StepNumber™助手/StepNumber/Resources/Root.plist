@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>设置</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>cn.agricu.stepnumber</string>
+			<key>key</key>
+			<string>enabled</string>
+			<key>label</key>
+			<string>启用</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>default</key>
+			<integer>8000</integer>
+			<key>defaults</key>
+			<string>cn.agricu.stepnumber</string>
+			<key>isNumeric</key>
+			<true/>
+			<key>key</key>
+			<string>targetStepNumber</string>
+			<key>label</key>
+			<string>目标步数</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>cn.agricu.stepnumber</string>
+			<key>key</key>
+			<string>random</string>
+			<key>label</key>
+			<string>添加随机数(0~100步)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<string>1</string>
+			<key>footerText</key>
+			<string>Copyright Agricu ©2022</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>StepNumber</string>
+</dict>
+</plist>

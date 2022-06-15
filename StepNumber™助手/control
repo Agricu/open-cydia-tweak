@@ -1,0 +1,10 @@
+Package: cn.agricu.stepnumber
+Name: StepNumber™助手
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A Health step count tweak.
+Maintainer: Agricu
+Depiction: http://repo.agricu.cn/description.html?id=cn.agricu.stepnumber
+Author: Agricu
+Section: Tweaks
